@@ -1,0 +1,9 @@
+var data = {"function":"check","course":"hi"};
+$.post('/user/check',data,function(dat){
+var tem=eval('(' + dat + ')');
+$.each(tem,function(key,val){
+alert(val['name']);
+
+});
+
+});
