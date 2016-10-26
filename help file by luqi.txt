@@ -1,4 +1,4 @@
-PHP 5
+Quick Framework Branched
 Conventions to be followed in the framework.
 ----------------------------------------------------------------------------------------------------------------------------
 
